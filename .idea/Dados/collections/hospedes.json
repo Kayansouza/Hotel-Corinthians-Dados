@@ -1,0 +1,12 @@
+{
+  "_id": "000000000000000000000000",
+  "nome": "Carlos Henrique",
+  "email": "carlos@email.com",
+  "telefone": "(11)99999-9999",
+  "cpf": "123.456.789-00",
+  "endereco": {
+    "cidade": "São Paulo",
+    "estado": "SP"
+  },
+  "dataCadastro": "2024-01-01T00:00:00Z"
+}

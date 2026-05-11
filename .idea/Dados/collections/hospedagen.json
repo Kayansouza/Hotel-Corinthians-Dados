@@ -1,0 +1,21 @@
+{
+  "_id": "000000000000000000000003",
+
+  "reservaId": "000000000000000000000004",
+
+  "checkIn": "2025-01-01T14:00:00Z",
+  "checkOut": "2025-01-05T12:00:00Z",
+
+  "servicosConsumidos": [
+    {
+      "nome": "Café da manhã",
+      "valor": 40
+    },
+    {
+      "nome": "Spa",
+      "valor": 120
+    }
+  ],
+
+  "observacoes": "Cliente pediu travesseiro extra"
+}

@@ -1,0 +1,15 @@
+{
+  "_id": "000000000000000000000001",
+  "numero": 301,
+  "tipo": "Luxo",
+  "capacidade": 3,
+  "precoDiaria": 450,
+  "status": "Disponível",
+
+  "caracteristicas": [
+    "vista para o mar",
+    "banheira",
+    "wifi",
+    "ar-condicionado"
+  ]
+}

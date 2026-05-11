@@ -1,0 +1,13 @@
+{
+  "_id": "000000000000000000000006",
+
+  "hospedagemId": "000000000000000000000003",
+
+  "valor": 1500,
+
+  "metodo": "Cartão de Crédito",
+
+  "status": "Pago",
+
+  "dataPagamento": "2025-01-15T12:00:00Z"
+}
