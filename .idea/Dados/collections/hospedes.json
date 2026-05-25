@@ -1,12 +1,40 @@
-{
-  "_id": "000000000000000000000000",
-  "nome": "Carlos Henrique",
-  "email": "carlos@email.com",
-  "telefone": "(11)99999-9999",
-  "cpf": "123.456.789-00",
-  "endereco": {
-    "cidade": "São Paulo",
-    "estado": "SP"
-  },
-  "dataCadastro": "2024-01-01T00:00:00Z"
-}
+[
+    {
+        "_id": "01",
+        "nome": "Cauan Rodrigues ",
+        "cpf": "111.222.333-44",
+        "email": "cauanrodri@gmail.com",
+        "sexo": "masculino",
+        "tel": "11 99999-8888"
+    },
+      {  "_id": "02",
+          "nome": "Beatriz Campos",
+          "cpf": "222.333.444.55",
+          "email": "beatrizcampos@gmail.com",
+          "tel":" 12 22222-1111",
+          "sexo": "feminino"
+},
+    {   
+         "_id": "03",
+         "nome": "Sophia Campos",
+         "cpf": "333.444.55-66",
+         "email": "sophiacampos@gmail.com",
+         "sexo": "feminino",
+         "tel":" 13 33333-2222"
+    },
+    {    "_id": "04",
+         "nome": "Rodrigo Garro",
+         "cpf": "444.555.666-55",
+         "email": "Rodri.garro@gmail.com",
+         "sexo": "masculino",
+         "tel": " 14 44444-3399"
+    }
+    ,
+    {    "_id": "05",
+         "nome": "Mephis Depay",
+         "cpf": "444.555.126-55",
+         "email": "mephisdepay@gmail.com",
+         "sexo": "masculino",
+         "tel": " 14 44444-3344"
+    }
+]

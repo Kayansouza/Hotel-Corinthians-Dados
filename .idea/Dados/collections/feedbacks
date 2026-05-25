@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "FB01",
+    "quarto_id": "Q01",
+    "hospede_id": "01",
+    "nome_hospede": "Cauan Rodrigues",
+    "nota": 5,
+    "comentario": "Excelente quarto, ar-condicionado gelando muito bem e ótimo atendimento.",
+    "data_avaliacao": "2026-06-14"
+  },
+  {
+    "_id": "FB02",
+    "quarto_id": "Q03",
+    "hospede_id": "03",
+    "nome_hospede": "Sophia Campos",
+    "nota": 4,
+    "comentario": "O quarto estava limpo e a internet wifi é rápida, mas a TV poderia ser maior.",
+    "data_avaliacao": "2026-06-16"
+  }
+]

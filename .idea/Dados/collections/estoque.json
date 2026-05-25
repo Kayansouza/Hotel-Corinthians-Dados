@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "EST01",
+    "item": "Água Mineral 500ml",
+    "categoria": "Bebidas",
+    "quantidade_atual": 150,
+    "quantidade_minima_alerta": 50,
+    "unidade_medida": "unidades",
+    "ultimo_fornecedor": "Distribuidora BebiMais",
+    "ultima_atualizacao": "2026-05-18"
+  },
+  {
+    "_id": "EST02",
+    "item": "Filé Mignon",
+    "categoria": "Carnes/Congelados",
+    "quantidade_atual": 25.5,
+    "quantidade_minima_alerta": 10.0,
+    "unidade_medida": "kg",
+    "ultimo_fornecedor": "Frigorífico Central",
+    "ultima_atualizacao": "2026-05-19"
+  },
+  {
+    "_id": "EST03",
+    "item": "Café em Grãos Premium",
+    "categoria": "Mercearia",
+    "quantidade_atual": 8,
+    "quantidade_minima_alerta": 15,
+    "unidade_medida": "kg",
+    "ultimo_fornecedor": "Grão do Café Ltda",
+    "ultima_atualizacao": "2026-05-15"
+  }
+]

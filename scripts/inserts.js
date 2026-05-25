@@ -1,4 +1,3 @@
-use hotel_corinthians_dados
 
 db.hospedes.insertOne({
   nome: "Carlos Henrique",
